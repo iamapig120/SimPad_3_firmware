@@ -1,0 +1,7 @@
+*.lst
+*.uvgui.*
+*.M51
+*.hex
+*.bin
+*.orig
+OUTPUT/*
